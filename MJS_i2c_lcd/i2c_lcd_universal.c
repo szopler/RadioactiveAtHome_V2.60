@@ -1,9 +1,10 @@
-/*
- * i2c_lcd_universal.c
- *
- *  Created on: 20 mar 2014
- *      Author: Micha³ 'Szopler' Szoplik
+/* Name: i2c_lcd_universal.c
+ * Project: Radioactive@Home KIT Firmware
+ * Author: Michal 'Szopler' Szoplik
+ * Creation Date: 04-2014
+ * License: GNU GPL v3
  */
+
 
 #include <avr/io.h>
 #include <util/delay.h>

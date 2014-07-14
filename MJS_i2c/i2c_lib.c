@@ -1,9 +1,10 @@
-/*
- * i2c_twi.c
- *
- *  Created on: 2014-03-17
- *       Author: Micha³ 'Szopler' Szoplik
+/* Name: i2c_lib.c
+ * Project: Radioactive@Home KIT Firmware
+ * Author: Michal 'Szopler' Szoplik
+ * Creation Date: 04-2014
+ * License: GNU GPL v3
  */
+
 
 #include <avr/io.h>
 #include "../MJS_i2c/i2c_lib.h"

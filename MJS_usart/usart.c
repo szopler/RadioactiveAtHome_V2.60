@@ -1,8 +1,8 @@
-/*
- * usart.c
- *
- *  Created on: 26 mar 2014
- *      Author: Micha³ 'Szopler' Szoplik
+/* Name: usart.c
+ * Project: Radioactive@Home KIT Firmware
+ * Author: Michal 'Szopler' Szoplik
+ * Creation Date: 04-2014
+ * License: GNU GPL v3
  */
 
 

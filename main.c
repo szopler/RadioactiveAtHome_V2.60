@@ -1,8 +1,10 @@
 /* Name: main.c
- * Project: Radioactive@Home
- * Author: Micha³ 'Szopler' Szoplik
- * Creation Date: 2014-03-21
-*/
+ * Project: Radioactive@Home KIT Firmware
+ * Author: Michal 'Szopler' Szoplik
+ * Creation Date: 04-2014
+ * License: GNU GPL v3
+ */
+
 
 #include <avr/io.h>
 #include <avr/wdt.h>

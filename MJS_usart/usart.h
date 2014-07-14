@@ -1,15 +1,16 @@
-/*
- * usart.h
- *
- *  Created on: 26 mar 2014
- *      Author: Micha³ 'Szopler' Szoplik
+/* Name: usart.h
+ * Project: Radioactive@Home KIT Firmware
+ * Author: Michal 'Szopler' Szoplik
+ * Creation Date: 04-2014
+ * License: GNU GPL v3
  */
+
 
 #ifndef USART_H_
 #define USART_H_
 
 #define BAUDRATE	9600UL
-#define __UBRR		(F_CPU/(16UL*BAUDRATE))-1
+#define __UBRR		( F_CPU  + BAUDRATE * 8UL  ) / (16UL * BAUDRATE) -1
 
 
 void uart_init(uint16_t baud);

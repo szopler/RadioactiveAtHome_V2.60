@@ -1,9 +1,10 @@
-/*
- * i2c_lib.h
- *
- *  Created on: 2014-03-17
- *       Author: Micha³ 'Szopler' Szoplik
+/* Name: i2c_lib.h
+ * Project: Radioactive@Home KIT Firmware
+ * Author: Michal 'Szopler' Szoplik
+ * Creation Date: 04-2014
+ * License: GNU GPL v3
  */
+
 
 #ifndef I2C_LIB_H_
 #define I2C_LIB_H_

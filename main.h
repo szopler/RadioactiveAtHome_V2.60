@@ -1,9 +1,10 @@
-/*
- * main.h
- *
- *  Created on: 14-01-2014
- *      Author: Micha³ 'Szopler' Szoplik
+/* Name: main.h
+ * Project: Radioactive@Home KIT Firmware
+ * Author: Michal 'Szopler' Szoplik
+ * Creation Date: 04-2014
+ * License: GNU GPL v3
  */
+
 
 #ifndef MAIN_H_
 #define MAIN_H_
